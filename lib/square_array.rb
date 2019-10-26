@@ -8,4 +8,4 @@ def square_array(array)
   new_numbers.each do |a|
     a**=2
   end
-end
+end  
